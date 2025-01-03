@@ -1,0 +1,32 @@
+// Breakpoints
+$breakpoint-sm: 576px;
+$breakpoint-md: 768px;
+$breakpoint-lg: 1024px;
+$breakpoint-xl: 1200px;
+
+// Container
+$max-container-width: 1200px;
+
+// Spacing
+$spacer: 5px;
+
+// Colors
+$white-text: #ffffff;
+$light-text: #f1f5f5;
+$primary: #0a655e;
+$gold: #c5a47e;
+$shadow-color: rgba(46, 56, 56, 0.16);
+$text-hover: $gold;
+$text-secondary: #6e8484;
+$text-dark: #3e3e3e;
+$background-light: #f9fbfb;
+$text-primary: #2e3838;
+$border-light: rgba(229, 229, 229, 0.3);
+
+$header-height: 90px;
+$image-cover-width: 428px;
+$image-cover-width-desktop: 512px;
+$image-cover-height: 494px;
+$image-cover-top: 10px;
+$page-header-grid-margin: calc($spacer * 6);
+$home-view-search-magazine-margin: calc($spacer * 26);
