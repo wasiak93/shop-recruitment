@@ -1,4 +1,4 @@
-# Kazus - E-commerce Application
+# Kazus - Recruitment Task
 
 ## Requirements
 
